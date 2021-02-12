@@ -1,8 +1,10 @@
 # SQL Koans
-The SQL koans are a set of koans to introduce you to SQL. See [the website](http://sqlkoans.com) for more information. For the impatient...
 
-## Climb the Mountain
-```sh
-$ git clone https://github.com/phillipjohnson/sql-koans
-$ python sql-koans/src/path_to_enlightenment.py
-```
+Inspired from the original [Ruby Koans](http://github.com/edgecase/ruby_koans) from Edgecase.
+
+The SQL Koans walk you along the path to enlightenment in order to learn SQL. The goal is to learn the SQL language, syntax, structure, and some common functions and libraries. We also teach you culture by basing the koans on tests. Testing is not just something we pay lip service to, but something we live. Testing is essential in your quest to learn and do great things in SQL.
+
+### Acknowledgements
+
+* Edgecase
+* phillipjohnson
